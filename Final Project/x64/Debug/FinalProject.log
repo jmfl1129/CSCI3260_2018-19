@@ -1,0 +1,40 @@
+﻿  main.cpp
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(232): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(233): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(236): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(241): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(246): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(253): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(258): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(274): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(275): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(276): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(281): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(286): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(293): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(298): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(313): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(314): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(319): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(324): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(331): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(336): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(351): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(352): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(357): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(362): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(369): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(374): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(404): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(405): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(412): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(437): warning C4018: '<': signed/unsigned mismatch
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(453): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(456): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(812): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(854): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(890): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(928): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+c:\users\leekw\desktop\finalproject\finalproject\main.cpp(967): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+  FinalProject.vcxproj -> C:\Users\leekw\Desktop\FinalProject\x64\Debug\FinalProject.exe
+  FinalProject.vcxproj -> C:\Users\leekw\Desktop\FinalProject\x64\Debug\FinalProject.pdb (Partial PDB)
